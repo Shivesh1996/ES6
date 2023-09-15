@@ -67,12 +67,51 @@
 // // o/p: NewZeland
 // //      India
 
-const whoWillWinToday = "India";
-if (true){
-    const whoWillWinToday = "NewZeland";
-    console.log(whoWillWinToday)
-}
-console.log(whoWillWinToday)
+// const whoWillWinToday = "India";
+// if (true){
+//     const whoWillWinToday = "NewZeland";
+//     console.log(whoWillWinToday)
+// }
+// console.log(whoWillWinToday)
 
 // o/p: NewZeland
 //      India
+
+//-------------------------------------------------------------------------------------------//
+//Video -> 3
+// //es5
+// console.log("My name is Shivesh." + "My age is 27")
+// //o/p: My name is Shivesh.My age is 27
+
+// //es6
+// console.log(`My name is Shivesh.My age is 27`)
+// //o/p: My name is Shivesh.My age is 27
+
+
+// let firstName = "Shivesh"
+// let lastName = "Pandey"
+// //es5
+// console.log("My first name is " + firstName + ". My last name is " + lastName + ".")
+// //o/p: My first name is Shivesh. My last name is Pandey.
+
+// //es6
+// console.log(`My first name is ${firstName}. My last name is ${lastName}.`)
+// //o/p: My first name is Shivesh. My last name is Pandey.
+
+// //we can add two expressions as well
+// let a = 20;
+// let b = 30;
+// //es5
+// console.log("Fifty is " + (a + b) + " and\nnot " + (2 * a + b) + ".");
+// //o/p:Fifty is 50 and
+// //    not 70.
+
+// //es6
+// console.log(`Fifty is ${a + b} and
+// not ${2 * a + b}.`);
+// //o/p:Fifty is 50 and
+// //    not 70.
+
+
+//-------------------------------------------------------------------------------------------//
+//Video -> 4
